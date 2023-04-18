@@ -1,5 +1,4 @@
-package frc.robot.math;
-
+package frc.robot.quail;
 
 /**
  * Represents a two-dimensional vector.

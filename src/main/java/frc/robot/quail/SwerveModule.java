@@ -1,11 +1,10 @@
-package frc.robot.subsystems;
+package frc.robot.quail;
 import com.ctre.phoenix.motorcontrol.ControlMode;
 import com.ctre.phoenix.motorcontrol.TalonFXFeedbackDevice;
 import com.ctre.phoenix.motorcontrol.can.WPI_TalonFX;
 import com.ctre.phoenix.sensors.WPI_CANCoder;
 
 import frc.robot.Constants;
-import frc.robot.math.Vec2d;
 
 public class SwerveModule {
    	/** The motor controlling the module's movement. */

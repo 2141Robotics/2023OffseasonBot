@@ -1,4 +1,4 @@
-package frc.robot.subsystems;
+package frc.robot.quail;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
@@ -7,7 +7,6 @@ import com.kauailabs.navx.frc.AHRS;
 import frc.robot.Constants;
 
 import edu.wpi.first.wpilibj.XboxController;
-import frc.robot.math.Vec2d;
 
 import java.lang.Math;
 /**
